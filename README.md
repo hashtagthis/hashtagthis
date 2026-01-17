@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola, soy Junior! 👋
 
-<!--
-**hashtagthis/hashtagthis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Frontend Senior | Diseñador enamorado del código
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en un **Marketplace**.
+- 🌱 Deseoso al querer **devolverle la vida a la web**.
+- 💬 Pregúntame sobre **React, Tailwind o cualquier necesidad en tu desarrollo front**.
+- 📫 Cómo contactarme: **[LinkedIn]https://www.linkedin.com/in/juniorueda/**
+
+## 🛠️ Tecnologías
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 📊 Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=hashtagthis&show_icons=true&theme=tokyonight)
