@@ -8,7 +8,7 @@
 - 🔭 Actualmente estoy trabajando en un **Marketplace**.
 - 🌱 Deseoso al querer **devolverle la vida a la web**.
 - 💬 Pregúntame sobre **React, Tailwind o cualquier necesidad en tu desarrollo front**.
-- 📫 Cómo contactarme: **[LinkedIn]https://www.linkedin.com/in/juniorueda/**
+- 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/juniorueda/)**
 
 ## 🛠️ Tecnologías
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
