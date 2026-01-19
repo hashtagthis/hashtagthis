@@ -1,14 +1,14 @@
 # ¡Hola, soy Junior! 👋
 
-### Desarrollador Frontend Senior | Diseñador enamorado del código
+### Desarrollador Frontend Senior | Un diseñador que se enamoró del código
 
 ---
 
 ## 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en un **Marketplace**.
+- 🔭 Actualmente me encuentro trabajando en un repo con **mapas interactivos** -aún buscando qué hacer con esto, pero está divertido 🥳-.
 - 🌱 Deseoso al querer **devolverle la vida a la web**.
-- 💬 Pregúntame sobre **React, Tailwind o cualquier necesidad en tu desarrollo front**.
-- 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/juniorueda/)**
+- 💬 Pregúntame sobre **cualquier necesidad en tu desarrollo front**.
+- 📫 Me puedes encontrar en **[LinkedIn](https://www.linkedin.com/in/juniorueda/)**
 
 ## 🛠️ Tecnologías
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
